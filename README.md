@@ -130,11 +130,3 @@ To set up the environment and run the code, follow these steps:
    model.save('model.hgg')
    ```
 
-## 7. Results
-*(Add details about training performance, accuracy, loss curves, etc., after training completes.)*
-
-## 8. Contributing
-Contributions are welcome! Please feel free to open issues or submit pull requests.
-
-## 9. License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
